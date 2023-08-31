@@ -1,3 +1,7 @@
+# Refactored Code 
+
+<img width="960" alt="image" src="https://github.com/a2rp/manufac-yarn-refactored-code/assets/5670738/8f21b481-247e-4b47-b9bd-e28f978df760">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
